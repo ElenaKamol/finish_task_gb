@@ -1,0 +1,14 @@
+/Users/elenasubbotina/Desktop/finish_task_gb/bin/Debug/net8.0/finish_task_gb
+/Users/elenasubbotina/Desktop/finish_task_gb/bin/Debug/net8.0/finish_task_gb.deps.json
+/Users/elenasubbotina/Desktop/finish_task_gb/bin/Debug/net8.0/finish_task_gb.runtimeconfig.json
+/Users/elenasubbotina/Desktop/finish_task_gb/bin/Debug/net8.0/finish_task_gb.dll
+/Users/elenasubbotina/Desktop/finish_task_gb/bin/Debug/net8.0/finish_task_gb.pdb
+/Users/elenasubbotina/Desktop/finish_task_gb/obj/Debug/net8.0/finish_task_gb.GeneratedMSBuildEditorConfig.editorconfig
+/Users/elenasubbotina/Desktop/finish_task_gb/obj/Debug/net8.0/finish_task_gb.AssemblyInfoInputs.cache
+/Users/elenasubbotina/Desktop/finish_task_gb/obj/Debug/net8.0/finish_task_gb.AssemblyInfo.cs
+/Users/elenasubbotina/Desktop/finish_task_gb/obj/Debug/net8.0/finish_task_gb.csproj.CoreCompileInputs.cache
+/Users/elenasubbotina/Desktop/finish_task_gb/obj/Debug/net8.0/finish_task_gb.dll
+/Users/elenasubbotina/Desktop/finish_task_gb/obj/Debug/net8.0/refint/finish_task_gb.dll
+/Users/elenasubbotina/Desktop/finish_task_gb/obj/Debug/net8.0/finish_task_gb.pdb
+/Users/elenasubbotina/Desktop/finish_task_gb/obj/Debug/net8.0/finish_task_gb.genruntimeconfig.cache
+/Users/elenasubbotina/Desktop/finish_task_gb/obj/Debug/net8.0/ref/finish_task_gb.dll
